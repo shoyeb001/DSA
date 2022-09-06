@@ -26,7 +26,6 @@ int findMax(vector<int>arr,int k,int n) {
        }
    }
    return mx;
-
 }
 
 
